@@ -1,0 +1,10 @@
+C:\Users\Pablo Santana\source\repos\PabloSAlonso\Afondamento\PracticaGuiadaServicioWindows\MiPrimerServicio\bin\Debug\MiPrimerServicio.exe.config
+C:\Users\Pablo Santana\source\repos\PabloSAlonso\Afondamento\PracticaGuiadaServicioWindows\MiPrimerServicio\bin\Debug\MiPrimerServicio.exe
+C:\Users\Pablo Santana\source\repos\PabloSAlonso\Afondamento\PracticaGuiadaServicioWindows\MiPrimerServicio\bin\Debug\MiPrimerServicio.pdb
+C:\Users\Pablo Santana\source\repos\PabloSAlonso\Afondamento\PracticaGuiadaServicioWindows\MiPrimerServicio\obj\Debug\MiPrimerServicio.csproj.AssemblyReference.cache
+C:\Users\Pablo Santana\source\repos\PabloSAlonso\Afondamento\PracticaGuiadaServicioWindows\MiPrimerServicio\obj\Debug\MiPrimerServicio.MiPrimerServicio.resources
+C:\Users\Pablo Santana\source\repos\PabloSAlonso\Afondamento\PracticaGuiadaServicioWindows\MiPrimerServicio\obj\Debug\MiPrimerServicio.csproj.GenerateResource.cache
+C:\Users\Pablo Santana\source\repos\PabloSAlonso\Afondamento\PracticaGuiadaServicioWindows\MiPrimerServicio\obj\Debug\MiPrimerServicio.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Santana\source\repos\PabloSAlonso\Afondamento\PracticaGuiadaServicioWindows\MiPrimerServicio\obj\Debug\MiPrimerServicio.exe
+C:\Users\Pablo Santana\source\repos\PabloSAlonso\Afondamento\PracticaGuiadaServicioWindows\MiPrimerServicio\obj\Debug\MiPrimerServicio.pdb
+C:\Users\Pablo Santana\source\repos\PabloSAlonso\Afondamento\PracticaGuiadaServicioWindows\MiPrimerServicio\obj\Debug\MiPrimerServicio.exe.config
