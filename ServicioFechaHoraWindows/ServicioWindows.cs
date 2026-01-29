@@ -10,9 +10,9 @@ using System.Threading.Tasks;
 
 namespace ServicioFechaHoraWindows
 {
-    public partial class Service1 : ServiceBase
+    public partial class ServicioWindows : ServiceBase
     {
-        public Service1()
+        public ServicioWindows()
         {
             InitializeComponent();
         }
