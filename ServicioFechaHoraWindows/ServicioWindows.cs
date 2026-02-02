@@ -27,18 +27,19 @@ namespace ServicioFechaHoraWindows
             {
                 EventLog.WriteEntry(nombre, mensaje);
             }
-            catch (Exception ex) 
+            catch (Exception ex)
             {
                 dt = DateTime.Now;
                 fh.RegistrarMensajes(archivoMensajes, $"[ERROR] {nombre} {dt}");
             }
         }
 
-        FechaHora fh = new FechaHora();
+        FechaHora fh;
         DateTime dt;
         string archivoMensajes = "mensajes.txt";
         protected override void OnStart(string[] args)
         {
+            fh = new FechaHora();
             Thread hilo = new Thread(() => fh.InitServer());
             hilo.Start();
         }
@@ -49,4 +50,7 @@ namespace ServicioFechaHoraWindows
             fh.CerrarServidor();
         }
     }
+    // sc create "ServicioWindows" binPath=\""C:\Users\Pablo Santana\source\repos\PabloSAlonso\PracticaGuiadaServicioWindows\PracticaGuiadaServicioWindows\ServicioFechaHoraWindows\bin\Release\ServicioFechaHoraWindows.exe"\" DisplayName="AAAAAAA" start=demand
+    // sc delete ServicioWindows
+    // sc description ServicioWindows "Servicio de windows que ofrece fecha [date] | hora [time] | ambos [all]"
 }

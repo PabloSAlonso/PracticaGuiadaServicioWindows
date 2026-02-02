@@ -93,7 +93,7 @@ namespace EjercicioFechaHoraWindows
                                 default:
                                     Console.WriteLine($"No se ha reconocido el comando {msg} en la lista de comandos disponibles");
                                     serv.WriteEvent("Comando inválido:" + msg);
-                                    Console.WriteLine("Comandos disponibles: time | date | all | close *****");
+                                    Console.WriteLine("Comandos disponibles: time | date | all");
                                     break;
                             }
                             Console.WriteLine($"El cliente usó {msg}");
@@ -118,10 +118,11 @@ namespace EjercicioFechaHoraWindows
                 DirectoryInfo d;
                 StreamReader sr;
                 d = new DirectoryInfo(programData);
-                Directory.SetCurrentDirectory(d.Name);
-                if (File.Exists(NombreArchivo))
+                Directory.SetCurrentDirectory(d.FullName);
+                string ruta = d.FullName + "\\" + NombreArchivo;
+                if (File.Exists(ruta))
                 {
-                    using (sr = new StreamReader(programData + "\\" + NombreArchivo))
+                    using (sr = new StreamReader(ruta))
                     {
                         puerto = int.Parse(sr.ReadLine());
                     }
@@ -143,16 +144,17 @@ namespace EjercicioFechaHoraWindows
                 DirectoryInfo d;
                 StreamWriter sw;
                 d = new DirectoryInfo(programData);
-                Directory.SetCurrentDirectory(d.Name);
-                using (sw = new StreamWriter(programData + "\\" + NombreArchivo, true))
+                Directory.SetCurrentDirectory(d.FullName);
+                string ruta = d.FullName + "\\" + NombreArchivo;
+                using (sw = new StreamWriter(ruta))
                 {
                     sw.WriteLine(mensaje);
                 }
             }
             catch (Exception e) when (e is IOException || e is FileNotFoundException)
             {
-                //Devuelvo un puerto por defecto en caso de error con el archivo y notifico error
-                serv.WriteEvent("Error de archivo de errores");
+                // Notifico error con el archivo 
+                serv.WriteEvent("Error de archivo de comandos realizados");
             }
         }
 
