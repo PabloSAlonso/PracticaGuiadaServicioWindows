@@ -31,6 +31,7 @@
             // 
             // ServicioWindows
             // 
+            this.AutoLog = false;
             this.ServiceName = "ServicioWindows";
 
         }
