@@ -146,7 +146,7 @@ namespace EjercicioFechaHoraWindows
                 d = new DirectoryInfo(programData);
                 Directory.SetCurrentDirectory(d.FullName);
                 string ruta = d.FullName + "\\" + NombreArchivo;
-                using (sw = new StreamWriter(ruta))
+                using (sw = new StreamWriter(ruta, true))
                 {
                     sw.WriteLine(mensaje);
                 }
