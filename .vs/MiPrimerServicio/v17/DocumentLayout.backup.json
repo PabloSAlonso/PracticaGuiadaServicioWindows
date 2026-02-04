@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\Afondamento\\PracticaGuiadaServicioWindows\\",
+  "WorkspaceRootPath": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\PracticaGuiadaServicioWindows\\PracticaGuiadaServicioWindows\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{364D254F-6C50-48C9-B988-B851A6F556A9}|EjercicioFechaHoraWindows\\EjercicioFechaHoraWindows.csproj|c:\\users\\pablo santana\\source\\repos\\pablosalonso\\afondamento\\practicaguiadaserviciowindows\\ejerciciofechahorawindows\\fechahora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{364D254F-6C50-48C9-B988-B851A6F556A9}|EjercicioFechaHoraWindows\\EjercicioFechaHoraWindows.csproj|solutionrelative:ejerciciofechahorawindows\\fechahora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF8FAF34-7489-4D25-B3BB-E04BE8437FA6}|ServicioFechaHoraWindows\\ServicioFechaHoraWindows.csproj|C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\PracticaGuiadaServicioWindows\\PracticaGuiadaServicioWindows\\serviciofechahorawindows\\fechahora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8FAF34-7489-4D25-B3BB-E04BE8437FA6}|ServicioFechaHoraWindows\\ServicioFechaHoraWindows.csproj|solutionrelative:serviciofechahorawindows\\fechahora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{364D254F-6C50-48C9-B988-B851A6F556A9}|EjercicioFechaHoraWindows\\EjercicioFechaHoraWindows.csproj|C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\Afondamento\\PracticaGuiadaServicioWindows\\ejerciciofechahorawindows\\ejercicioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{364D254F-6C50-48C9-B988-B851A6F556A9}|EjercicioFechaHoraWindows\\EjercicioFechaHoraWindows.csproj|solutionrelative:ejerciciofechahorawindows\\ejercicioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF8FAF34-7489-4D25-B3BB-E04BE8437FA6}|ServicioFechaHoraWindows\\ServicioFechaHoraWindows.csproj|c:\\users\\pablo santana\\source\\repos\\pablosalonso\\practicaguiadaserviciowindows\\practicaguiadaserviciowindows\\serviciofechahorawindows\\serviciowindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8FAF34-7489-4D25-B3BB-E04BE8437FA6}|ServicioFechaHoraWindows\\ServicioFechaHoraWindows.csproj|solutionrelative:serviciofechahorawindows\\serviciowindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{364D254F-6C50-48C9-B988-B851A6F556A9}|EjercicioFechaHoraWindows\\EjercicioFechaHoraWindows.csproj|C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\Afondamento\\PracticaGuiadaServicioWindows\\ejerciciofechahorawindows\\ejercicioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{364D254F-6C50-48C9-B988-B851A6F556A9}|EjercicioFechaHoraWindows\\EjercicioFechaHoraWindows.csproj|solutionrelative:ejerciciofechahorawindows\\ejercicioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC9723F5-4E1E-4379-AD1F-00053B2303DF}|MiPrimerServicio\\MiPrimerServicio.csproj|C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\Afondamento\\PracticaGuiadaServicioWindows\\miprimerservicio\\miprimerservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC9723F5-4E1E-4379-AD1F-00053B2303DF}|MiPrimerServicio\\MiPrimerServicio.csproj|solutionrelative:miprimerservicio\\miprimerservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF8FAF34-7489-4D25-B3BB-E04BE8437FA6}|ServicioFechaHoraWindows\\ServicioFechaHoraWindows.csproj|C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\PracticaGuiadaServicioWindows\\PracticaGuiadaServicioWindows\\serviciofechahorawindows\\serviciowindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF8FAF34-7489-4D25-B3BB-E04BE8437FA6}|ServicioFechaHoraWindows\\ServicioFechaHoraWindows.csproj|solutionrelative:serviciofechahorawindows\\serviciowindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,51 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FechaHora.cs",
-              "DocumentMoniker": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\Afondamento\\PracticaGuiadaServicioWindows\\EjercicioFechaHoraWindows\\FechaHora.cs",
-              "RelativeDocumentMoniker": "EjercicioFechaHoraWindows\\FechaHora.cs",
-              "ToolTip": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\Afondamento\\PracticaGuiadaServicioWindows\\EjercicioFechaHoraWindows\\FechaHora.cs",
-              "RelativeToolTip": "EjercicioFechaHoraWindows\\FechaHora.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAcwIQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ServicioWindows.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\PracticaGuiadaServicioWindows\\PracticaGuiadaServicioWindows\\ServicioFechaHoraWindows\\ServicioWindows.cs",
+              "RelativeDocumentMoniker": "ServicioFechaHoraWindows\\ServicioWindows.cs",
+              "ToolTip": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\PracticaGuiadaServicioWindows\\PracticaGuiadaServicioWindows\\ServicioFechaHoraWindows\\ServicioWindows.cs*",
+              "RelativeToolTip": "ServicioFechaHoraWindows\\ServicioWindows.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAARAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T08:26:47.397Z",
+              "WhenOpened": "2026-01-29T10:44:01.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EjercicioServicio.cs",
-              "DocumentMoniker": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\Afondamento\\PracticaGuiadaServicioWindows\\EjercicioFechaHoraWindows\\EjercicioServicio.cs",
-              "RelativeDocumentMoniker": "EjercicioFechaHoraWindows\\EjercicioServicio.cs",
-              "ToolTip": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\Afondamento\\PracticaGuiadaServicioWindows\\EjercicioFechaHoraWindows\\EjercicioServicio.cs",
-              "RelativeToolTip": "EjercicioFechaHoraWindows\\EjercicioServicio.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FechaHora.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\PracticaGuiadaServicioWindows\\PracticaGuiadaServicioWindows\\ServicioFechaHoraWindows\\FechaHora.cs",
+              "RelativeDocumentMoniker": "ServicioFechaHoraWindows\\FechaHora.cs",
+              "ToolTip": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\PracticaGuiadaServicioWindows\\PracticaGuiadaServicioWindows\\ServicioFechaHoraWindows\\FechaHora.cs*",
+              "RelativeToolTip": "ServicioFechaHoraWindows\\FechaHora.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T08:20:20.93Z"
+              "WhenOpened": "2026-01-29T10:20:39.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EjercicioServicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\Afondamento\\PracticaGuiadaServicioWindows\\EjercicioFechaHoraWindows\\EjercicioServicio.cs",
-              "RelativeDocumentMoniker": "EjercicioFechaHoraWindows\\EjercicioServicio.cs",
-              "ToolTip": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\Afondamento\\PracticaGuiadaServicioWindows\\EjercicioFechaHoraWindows\\EjercicioServicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "EjercicioFechaHoraWindows\\EjercicioServicio.cs [Dise\u00F1o]",
+              "Title": "ServicioWindows.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\PracticaGuiadaServicioWindows\\PracticaGuiadaServicioWindows\\ServicioFechaHoraWindows\\ServicioWindows.cs",
+              "RelativeDocumentMoniker": "ServicioFechaHoraWindows\\ServicioWindows.cs",
+              "ToolTip": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\PracticaGuiadaServicioWindows\\PracticaGuiadaServicioWindows\\ServicioFechaHoraWindows\\ServicioWindows.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "ServicioFechaHoraWindows\\ServicioWindows.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T08:18:55.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MiPrimerServicio.cs",
-              "DocumentMoniker": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\Afondamento\\PracticaGuiadaServicioWindows\\MiPrimerServicio\\MiPrimerServicio.cs",
-              "RelativeDocumentMoniker": "MiPrimerServicio\\MiPrimerServicio.cs",
-              "ToolTip": "C:\\Users\\Pablo Santana\\source\\repos\\PabloSAlonso\\Afondamento\\PracticaGuiadaServicioWindows\\MiPrimerServicio\\MiPrimerServicio.cs",
-              "RelativeToolTip": "MiPrimerServicio\\MiPrimerServicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T08:27:03.517Z"
+              "WhenOpened": "2026-01-29T10:19:40.018Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

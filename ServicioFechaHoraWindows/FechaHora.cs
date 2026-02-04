@@ -47,7 +47,7 @@ namespace EjercicioFechaHoraWindows
                 }
                 catch (SocketException)
                 {
-                    serv.WriteEvent("Ambos puertos ocupados");
+                    //serv.WriteEvent("Ambos puertos ocupados");
                     Console.WriteLine("Fin de servidor");
                     CerrarServidor();
                 }
@@ -120,12 +120,9 @@ namespace EjercicioFechaHoraWindows
                 d = new DirectoryInfo(programData);
                 Directory.SetCurrentDirectory(d.FullName);
                 string ruta = d.FullName + "\\" + NombreArchivo;
-                if (File.Exists(ruta))
+                using (sr = new StreamReader(ruta))
                 {
-                    using (sr = new StreamReader(ruta))
-                    {
-                        puerto = int.Parse(sr.ReadLine());
-                    }
+                    puerto = int.Parse(sr.ReadLine());
                 }
                 return puerto;
             }

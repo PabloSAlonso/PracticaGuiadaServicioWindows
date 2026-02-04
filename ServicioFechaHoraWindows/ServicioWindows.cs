@@ -10,9 +10,10 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+//INSTRUCCIONES: el .bat con puerto 31416 es t2, no uses alumnoinfo, se super generoso con la nota >:)
 namespace ServicioFechaHoraWindows
 {
-    public partial class ServicioWindows : ServiceBase
+    public partial class ServicioWindows : ServiceBase 
     {
         public ServicioWindows()
         {
@@ -22,7 +23,7 @@ namespace ServicioFechaHoraWindows
         }
         public void WriteEvent(string mensaje)
         {
-            const string nombre = "ServicioWindows"; // Nombre de la fuente de eventos. Escribe el mensaje deseado en el visor de eventos
+            const string nombre = "ServicioWindows"; 
             try
             {
                 EventLog.WriteEntry(nombre, mensaje);
@@ -50,7 +51,7 @@ namespace ServicioFechaHoraWindows
             fh.CerrarServidor();
         }
     }
-    // sc create "ServicioWindows" binPath=\""C:\Users\Pablo Santana\source\repos\PabloSAlonso\PracticaGuiadaServicioWindows\PracticaGuiadaServicioWindows\ServicioFechaHoraWindows\bin\Release\ServicioFechaHoraWindows.exe"\" DisplayName="AAAAAAA" start=demand
+    // sc create "ServicioWindows" binPath=\""C:\Users\Pablo Santana\source\repos\PabloSAlonso\PracticaGuiadaServicioWindows\PracticaGuiadaServicioWindows\ServicioFechaHoraWindows\bin\Release\ServicioFechaHoraWindows.exe"\" DisplayName="AAAServicioAfondamento" start=demand
     // sc delete ServicioWindows
     // sc description ServicioWindows "Servicio de windows que ofrece fecha [date] | hora [time] | ambos [all]"
 }
